@@ -1,8 +1,0 @@
-README.md
-setup.py
-src/obsidian_pp_ocr_converter.egg-info/PKG-INFO
-src/obsidian_pp_ocr_converter.egg-info/SOURCES.txt
-src/obsidian_pp_ocr_converter.egg-info/dependency_links.txt
-src/obsidian_pp_ocr_converter.egg-info/entry_points.txt
-src/obsidian_pp_ocr_converter.egg-info/requires.txt
-src/obsidian_pp_ocr_converter.egg-info/top_level.txt
