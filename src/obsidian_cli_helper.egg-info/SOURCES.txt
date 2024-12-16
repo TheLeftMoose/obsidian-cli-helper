@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/obsidian_cli_helper.egg-info/PKG-INFO
+src/obsidian_cli_helper.egg-info/SOURCES.txt
+src/obsidian_cli_helper.egg-info/dependency_links.txt
+src/obsidian_cli_helper.egg-info/entry_points.txt
+src/obsidian_cli_helper.egg-info/requires.txt
+src/obsidian_cli_helper.egg-info/top_level.txt

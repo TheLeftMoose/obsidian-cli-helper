@@ -1,0 +1,5 @@
+{
+  "branch": "main",
+  "version_variable": "setup.py:version",
+  "upload_to_pypi": false
+}
